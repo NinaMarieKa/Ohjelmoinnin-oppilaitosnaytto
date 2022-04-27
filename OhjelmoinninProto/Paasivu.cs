@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace OhjelmoinninProto
 {
-    public partial class Form1 : Form
+    public partial class Paasivu : Form
     {
-        public Form1()
+        public Paasivu()
         {
             InitializeComponent();
         }
+
+        
     }
 }
